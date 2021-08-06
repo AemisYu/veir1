@@ -9,10 +9,6 @@ Software Developer on [NimuVT](https://twitter.com/nimuvt) and [CapeStar](https:
 -  **Languages :** Java, JavaScript, Python 💻
 -  **Hobbies :** Make stories and draw them! 📕
 
-<h2 align="center">Organizations</h2>
-<p align="center">A summary of organizations where I collaborate.</p>
-
-| <a href="https://twitter.com/nimuvt" target="_blank">**Nimu Virtual**</a> | <a href="https://twitter.com/CapeStarX" target="_blank">**CapeStar Organization**</a>
 <p align="center">
   <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=veir1&show_icons=true&theme=radical">
 </p>
